@@ -1,0 +1,901 @@
+[{
+    "_id": ObjectId("57a343810cf249bbcaa27989"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "57a2ce94e4b02d6361105dbb",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.lastminute.com/blog/28-things-to-do-in-london-when-it-rains/?utm_medium=referral&utm_content=57a2ce94e4b02d6361105dbb&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(1)
+} {
+    "_id": ObjectId("57a343270cf249bbcaa27987"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "57a2467ee4b02d6361102fdd",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/events/comedy-at-the-hippodrome-19/?utm_medium=referral&utm_content=57a2467ee4b02d6361102fdd&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("57a337510cf249bbcaa27982"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57a09076e4b02d63610fac7c",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/mainline/bag-accessories/?utm_medium=referral&utm_content=57a09076e4b02d63610fac7c&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(14)
+} {
+    "_id": ObjectId("57a331ed0cf249bbcaa2797f"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a2ef41e4b02d6361106413",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/videos?utm_medium=referral&utm_content=57a2ef41e4b02d6361106413&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(15)
+} {
+    "_id": ObjectId("57a32e690cf249bbcaa2797c"),
+    "brandid": "56b1fa23e4b02a94be40aa01",
+    "nid": "57a235a0e4b02d6361102870",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.manchestereveningnews.co.uk/whats-on/whats-on-news/whats-on-manchester-this-weekend-11701006?utm_medium=referral&utm_content=57a235a0e4b02d6361102870&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(19)
+} {
+    "_id": ObjectId("57a31a230cf249bbcaa27979"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a2fe03e4b02d63611066fa",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/cities-in-usa/District-of-Columbia?utm_medium=referral&utm_content=57a2fe03e4b02d63611066fa&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(16)
+} {
+    "_id": ObjectId("57a30c4f0cf249bbcaa27973"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57a1c412e4b02d63610fff40",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/pixel-smiley-cross-body-5050925923262.html?utm_medium=referral&utm_content=57a1c412e4b02d63610fff40&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(5)
+} {
+    "_id": ObjectId("57a2c4f10cf249bbcaa2796a"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a2ad04e4b02d636110534f",
+    "linkid": 3,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984949?utm_medium=referral&utm_content=57a2ad04e4b02d636110534f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(40)
+} {
+    "_id": ObjectId("57a2c4f10cf249bbcaa27969"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a2ad04e4b02d636110534f",
+    "linkid": 2,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984935?utm_medium=referral&utm_content=57a2ad04e4b02d636110534f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(140)
+} {
+    "_id": ObjectId("57a2c4f10cf249bbcaa27968"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a2ad04e4b02d636110534f",
+    "linkid": 1,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984936?utm_medium=referral&utm_content=57a2ad04e4b02d636110534f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(88)
+} {
+    "_id": ObjectId("57a2c4f10cf249bbcaa27967"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a2ad04e4b02d636110534f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984937?utm_medium=referral&utm_content=57a2ad04e4b02d636110534f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(95)
+} {
+    "_id": ObjectId("57a2ba470cf249bbcaa27960"),
+    "brandid": "56fcef1ce4b0c06ee273e62b",
+    "nid": "57a2ac60e4b02d6361105334",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.portadelaidefc.com.au/news/2016-08-02/aflca-gray-into-8th-trengove-gets-10?utm_medium=referral&utm_content=57a2ac60e4b02d6361105334&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(1)
+} {
+    "_id": ObjectId("57a2b55b0cf249bbcaa2795d"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a2b28be4b02d636110550d",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984957?utm_medium=referral&utm_content=57a2b28be4b02d636110550d&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(61)
+} {
+    "_id": ObjectId("57a271270cf249bbcaa27954"),
+    "brandid": "55c188f6e4b04b0617d4e5bd",
+    "nid": "57a063f3e4b02d63610fa163",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://imgur.com/a/IIstR?utm_medium=referral&utm_content=57a063f3e4b02d63610fa163&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(68)
+} {
+    "_id": ObjectId("57a1fd410cf249bbcaa2794b"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a01661e4b02d63610f90fe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/meng-te-li-wan-shui-zu-guan?utm_medium=referral&utm_content=57a01661e4b02d63610f90fe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(42)
+} {
+    "_id": ObjectId("57a1f6d40cf249bbcaa27949"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a01661e4b02d63610f90fe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/meng-te-li-wan-shui-zu-guan?utm_medium=referral&utm_content=57a01661e4b02d63610f90fe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": 0
+} {
+    "_id": ObjectId("57a1f61f0cf249bbcaa27948"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a01661e4b02d63610f90fe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/meng-te-li-wan-shui-zu-guan?utm_medium=referral&utm_content=57a01661e4b02d63610f90fe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": 0
+} {
+    "_id": ObjectId("57a1f56a0cf249bbcaa27947"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a01661e4b02d63610f90fe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/meng-te-li-wan-shui-zu-guan?utm_medium=referral&utm_content=57a01661e4b02d63610f90fe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": 0
+} {
+    "_id": ObjectId("57a1f4b50cf249bbcaa27945"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a01661e4b02d63610f90fe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/meng-te-li-wan-shui-zu-guan?utm_medium=referral&utm_content=57a01661e4b02d63610f90fe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": 0
+} {
+    "_id": ObjectId("57a1f4000cf249bbcaa27944"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "57a01661e4b02d63610f90fe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/meng-te-li-wan-shui-zu-guan?utm_medium=referral&utm_content=57a01661e4b02d63610f90fe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": 0
+} {
+    "_id": ObjectId("57a1f1e70cf249bbcaa27940"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "57a171c1e4b02d63610fef6a",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://purestudentliving.com/international/?locale=zh-cn&utm_medium=referral&utm_content=57a171c1e4b02d63610fef6a&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(8)
+} {
+    "_id": ObjectId("57a1e8470cf249bbcaa2793a"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57a0642ae4b02d63610fa16e",
+    "linkid": 1,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/men%27s-spectrum-stripes-tennis-shoes-928472.html?utm_medium=referral&utm_content=57a0642ae4b02d63610fa16e&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(6)
+} {
+    "_id": ObjectId("57a1e8470cf249bbcaa27939"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57a0642ae4b02d63610fa16e",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/spectrum-stripes-tennis-shoes-926355.html?utm_medium=referral&utm_content=57a0642ae4b02d63610fa16e&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(10)
+} {
+    "_id": ObjectId("57a1e08b0cf249bbcaa27936"),
+    "brandid": "56de8d20e4b04525fc416f16",
+    "nid": "57a03a97e4b02d63610f98f9",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/utah?utm_medium=referral&utm_content=57a03a97e4b02d63610f98f9&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(5)
+} {
+    "_id": ObjectId("57a1e0310cf249bbcaa27933"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "57a07c10e4b02d63610fa6bd",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://purestudentliving.com/?utm_medium=referral&utm_content=57a07c10e4b02d63610fa6bd&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(4)
+} {
+    "_id": ObjectId("57a1d5c30cf249bbcaa2792c"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "57a16b5fe4b02d63610fedf8",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/vacancies/?utm_medium=referral&utm_content=57a16b5fe4b02d63610fedf8&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(4)
+} {
+    "_id": ObjectId("57a1c9570cf249bbcaa27929"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "579efd24e4b02d63610f2735",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/destinations?utm_medium=referral&utm_content=579efd24e4b02d63610f2735&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(26)
+} {
+    "_id": ObjectId("57a1b9490cf249bbcaa2791e"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "57a0d77de4b02d63610fc2f4",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/events/martha-reeves-and-the-vandellas/?utm_medium=referral&utm_content=577e8af4e4b0553b142d3307&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("57a1adeb0cf249bbcaa2791c"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57a09127e4b02d63610facc1",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/mainline/stickers/?utm_medium=referral&utm_content=57a09127e4b02d63610facc1&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(25)
+} {
+    "_id": ObjectId("57a1abb10cf249bbcaa2791a"),
+    "brandid": "56b1fa23e4b02a94be40aa01",
+    "nid": "57a059f6e4b02d63610f9f96",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://catcafe.co.uk/bookings/?utm_medium=referral&utm_content=57a059f6e4b02d63610f9f96&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(32)
+} {
+    "_id": ObjectId("57a1ab930cf249bbcaa27918"),
+    "brandid": "577e502be4b0553b142d21bc",
+    "nid": "57a16069e4b02d63610fea43",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://theneighbourhood.uk.com/en?utm_medium=referral&utm_content=57a16069e4b02d63610fea43&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("57a1a63e0cf249bbcaa27916"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a1a63de4b02d63610ff8b4",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984877?utm_medium=referral&utm_content=57a1a63de4b02d63610ff8b4&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(37)
+} {
+    "_id": ObjectId("57a188ea0cf249bbcaa27913"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a188e8e4b02d63610ff2c0",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984910?utm_medium=referral&utm_content=57a188e8e4b02d63610ff2c0&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(39)
+} {
+    "_id": ObjectId("57a177c70cf249bbcaa2790f"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "578f5574e4b003e5538f42a8",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/edits/the-art-of-craftsmanship/?utm_medium=referral&utm_content=578f5574e4b003e5538f42a8&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(38)
+} {
+    "_id": ObjectId("57a16c690cf249bbcaa27909"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a163b3e4b02d63610fec56",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984910?utm_medium=referral&utm_content=57a163b3e4b02d63610fec56&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(50)
+} {
+    "_id": ObjectId("57a0a58b0cf249bbcaa278ed"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579a448ae4b02d63610dddb6",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/events/?utm_medium=referral&utm_content=579a448ae4b02d63610dddb6&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("57a09e0e0cf249bbcaa278eb"),
+    "brandid": "577e502be4b0553b142d21bc",
+    "nid": "57a09e07e4b02d63610fafca",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.theneighbourhood.uk.com/en/student-accommodation-cardiff?utm_medium=referral&utm_content=57a09e07e4b02d63610fafca&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(76)
+} {
+    "_id": ObjectId("57a09db10cf249bbcaa278e9"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "579f5465e4b02d63610f4fb8",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.timeout.com/london/things-to-do/night-of-festivals?utm_medium=referral&utm_content=579f5465e4b02d63610f4fb8&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("57a098e30cf249bbcaa278e3"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578deb03e4b003e5538ed313",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bluenile.com/cn/jewelry-stores?utm_medium=referral&utm_content=578deb03e4b003e5538ed313&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(66)
+} {
+    "_id": ObjectId("57a0969a0cf249bbcaa278e1"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "579f2d62e4b02d63610f46e0",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/edits/the-art-of-craftsmanship/?utm_medium=referral&utm_content=579f2d62e4b02d63610f46e0&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(15)
+} {
+    "_id": ObjectId("57a079b70cf249bbcaa278d6"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "579f5b6de4b02d63610f51a2",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://purestudentliving.com/our-properties/city?utm_medium=referral&utm_content=579f5b6de4b02d63610f51a2&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(40)
+} {
+    "_id": ObjectId("57a075080cf249bbcaa278d3"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579f5793e4b02d63610f5096",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/blanc-de-blanc/?utm_medium=referral&utm_content=579f5793e4b02d63610f5096&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("57a075070cf249bbcaa278d2"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "579ef06de4b02d63610f23cb",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/utah/explore/greatest-snow-on-earth?utm_medium=referral&utm_content=579ef06de4b02d63610f23cb&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(45)
+} {
+    "_id": ObjectId("57a061390cf249bbcaa278cb"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "579b2a78e4b02d63610e2303",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/edits/wedding/?utm_medium=referral&utm_content=579b2a78e4b02d63610e2303&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(11)
+} {
+    "_id": ObjectId("57a05dd30cf249bbcaa278c8"),
+    "brandid": "56b1fa23e4b02a94be40aa01",
+    "nid": "579f6c50e4b02d63610f580e",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://mancbeerfest.uk?utm_medium=referral&utm_content=579f6c50e4b02d63610f580e&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(35)
+} {
+    "_id": ObjectId("57a0482b0cf249bbcaa278c5"),
+    "brandid": "570b5663e4b0c06ee277a8c7",
+    "nid": "579fb3ade4b02d63610f6e9f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://maxximize.lnk.to/HitMe?utm_medium=referral&utm_content=579fb3ade4b02d63610f6e9f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(5)
+} {
+    "_id": ObjectId("57a020c50cf249bbcaa278c0"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "57a0126ae4b02d63610f9000",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984862?utm_medium=referral&utm_content=57a0126ae4b02d63610f9000&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(31)
+} {
+    "_id": ObjectId("579ffd820cf249bbcaa278b0"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "579f005de4b02d63610f279f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://travel.sina.com.cn/z/US201607/?utm_medium=referral&utm_content=579f005de4b02d63610f279f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(215)
+} {
+    "_id": ObjectId("579f93ea0cf249bbcaa278a8"),
+    "brandid": "570b5663e4b0c06ee277a8c7",
+    "nid": "579f4766e4b02d63610f4c5d",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "https://www.beatport.com/release/hit-me/1814532?utm_medium=referral&utm_content=579f4766e4b02d63610f4c5d&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(9)
+} {
+    "_id": ObjectId("579f701c0cf249bbcaa278a4"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579859c2e4b02d63610d3e99",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/events/west-end-wilma-theatre-awards-2/?utm_medium=referral&utm_content=579859c2e4b02d63610d3e99&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(4)
+} {
+    "_id": ObjectId("579f69d70cf249bbcaa278a1"),
+    "brandid": "55891c4be4b013bd9fc819b7",
+    "nid": "579f5e17e4b02d63610f524f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.acmilanstoreasia.com/default.aspx?&lang=sc&utm_source=club_weibo_promobox_160729&utm_medium=social&utm_campaign=bag10off",
+    "count": NumberLong(414)
+} {
+    "_id": ObjectId("579f68830cf249bbcaa2789f"),
+    "brandid": "55c188f6e4b04b0617d4e5bd",
+    "nid": "579f18f4e4b02d63610f4162",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.nycgo.com/restaurant-week?cuisines=chinese&utm_medium=referral&utm_content=579f18f4e4b02d63610f4162&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(89)
+} {
+    "_id": ObjectId("579f5f870cf249bbcaa2789b"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "579b12cae4b02d63610e1b91",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/cha-er-si-dun?utm_medium=referral&utm_content=579b12cae4b02d63610e1b91&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(104)
+} {
+    "_id": ObjectId("579f55ec0cf249bbcaa27896"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ef078e4b02d63610f23ce",
+    "linkid": 1,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://tottenhamhotspur.sports.163.com/video/2016/8/H/5/VBSF3HQH5.html?utm_medium=referral&utm_content=579ef078e4b02d63610f23ce&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": NumberLong(161)
+} {
+    "_id": ObjectId("579f55ec0cf249bbcaa27895"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ef078e4b02d63610f23ce",
+    "linkid": 1,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://tottenhamhotspur.sports.163.com/video/2016/8/H/5/VBSF3HQH5.html?utm_medium=referral&utm_content=579ef078e4b02d63610f23ce&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(26)
+} {
+    "_id": ObjectId("579f55ec0cf249bbcaa27894"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ef078e4b02d63610f23ce",
+    "linkid": 0,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://tottenhamhotspur.sports.163.com/video/2016/8/E/I/VBSF4BKEI.html?utm_medium=referral&utm_content=579ef078e4b02d63610f23ce&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": NumberLong(152)
+} {
+    "_id": ObjectId("579f55ec0cf249bbcaa27893"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ef078e4b02d63610f23ce",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://tottenhamhotspur.sports.163.com/video/2016/8/E/I/VBSF4BKEI.html?utm_medium=referral&utm_content=579ef078e4b02d63610f23ce&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(32)
+} {
+    "_id": ObjectId("579f55eb0cf249bbcaa27892"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578efbb2e4b003e5538f2e3f",
+    "linkid": 1,
+    "region": 0,
+    "network": "sweibo",
+    "url": "https://bluenile.tmall.hk/?utm_medium=referral&utm_content=578efbb2e4b003e5538f2e3f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(97)
+} {
+    "_id": ObjectId("579f55eb0cf249bbcaa27891"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578efbb2e4b003e5538f2e3f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bluenile.com/hk/chi/jewellery/search?utm_medium=referral&utm_content=578efbb2e4b003e5538f2e3f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(71)
+} {
+    "_id": ObjectId("579f4df40cf249bbcaa2788c"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579cdf1ee4b02d63610e9dc1",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "https://candyrae.com/2016/03/29/restaurant-review-heliot-steak-house/?utm_medium=referral&utm_content=579cdf1ee4b02d63610e9dc1&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(3)
+} {
+    "_id": ObjectId("579f410f0cf249bbcaa27886"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "579b12fde4b02d63610e1b9b",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/American-Museum-of-Natural-History?utm_medium=referral&utm_content=579b12fde4b02d63610e1b9b&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(43)
+} {
+    "_id": ObjectId("579f37190cf249bbcaa27881"),
+    "brandid": "56b1fa23e4b02a94be40aa01",
+    "nid": "579b1edbe4b02d63610e1e80",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.salford.ac.uk/welcome/travel/international-students?utm_medium=referral&utm_content=579b1edbe4b02d63610e1e80&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(11)
+} {
+    "_id": ObjectId("579f311f0cf249bbcaa2787f"),
+    "brandid": "577e502be4b0553b142d21bc",
+    "nid": "579edcb2e4b02d63610f219f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://theneighbourhood.uk.com/en?utm_medium=referral&utm_content=579edcb2e4b02d63610f219f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("579f26930cf249bbcaa2787a"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579a4212e4b02d63610ddcb2",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/events/blanc-de-blanc-matinee/?utm_medium=referral&utm_content=579a4212e4b02d63610ddcb2&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(1)
+} {
+    "_id": ObjectId("579f21a70cf249bbcaa27876"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "579b6c8fe4b02d63610e399a",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://purestudentliving.com/our-properties/highbury?utm_medium=referral&utm_content=579b6c8fe4b02d63610e399a&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(7)
+} {
+    "_id": ObjectId("579f12c50cf249bbcaa27871"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "579b8528e4b02d63610e42c7",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://anyasworld.anyahindmarch.com/2016/07/28/anya-hindmarch-at-lane-crawford/?utm_medium=referral&utm_content=579b8528e4b02d63610e42c7&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(17)
+} {
+    "_id": ObjectId("579f0fd70cf249bbcaa2786e"),
+    "brandid": "56ebba19e4b053aa36b09b49",
+    "nid": "579efc16e4b02d63610f270f",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://cn.bvbinasia.com/default.aspx?utm_medium=referral&utm_content=579efc16e4b02d63610f270f&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(615)
+} {
+    "_id": ObjectId("579f04200cf249bbcaa27869"),
+    "brandid": "53c5f408e4b0424a025e65c8",
+    "nid": "579ecbd7e4b02d63610f1ef8",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://judge.drip.im/honor?h=6038&k=E1eG0C93m&t=16_03&utm_medium=referral&utm_content=579ecbd7e4b02d63610f1ef8&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(47)
+} {
+    "_id": ObjectId("579ef37c0cf249bbcaa27864"),
+    "brandid": "56fcef1ce4b0c06ee273e62b",
+    "nid": "579ec60fe4b02d63610f1d80",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.portadelaidefc.com.au/news/2016-08-01/injury-update-round-19?utm_medium=referral&utm_content=579ec60fe4b02d63610f1d80&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(3)
+} {
+    "_id": ObjectId("579ecced0cf249bbcaa2785e"),
+    "brandid": "53c4dd95e4b0424a025d7761",
+    "nid": "579ec74ee4b02d63610f1dd1",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bundesliga.cn/news/1984836?utm_medium=referral&utm_content=579ec74ee4b02d63610f1dd1&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(69)
+} {
+    "_id": ObjectId("579ea97a0cf249bbcaa2784a"),
+    "brandid": "56de8d20e4b04525fc416f16",
+    "nid": "5799d27ae4b02d63610db6dd",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/utah?utm_medium=referral&utm_content=5799d27ae4b02d63610db6dd&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(4)
+} {
+    "_id": ObjectId("579e132f0cf249bbcaa27842"),
+    "brandid": "5632e86ee4b021c560b35a9a",
+    "nid": "579cc5fae4b02d63610e93cf",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1NjE2Mjg3Ng==&mid=2650651176&idx=1&sn=7c18b1d5b365a09d2b6fae2f51b7caab&scene=1&srcid=0730ZTiLGZfm62wNjWlKuRDm&key=8dcebf9e179c9f3a2667a9f98af2f053332422fcc1b5f27fe3d4e01d01dea8b1295baf5ab8e2d1d68a092f8e8b3e0f28&ascene=0&uin=ODYyMjIwNzIx&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=4MeN5IrE58Ph5JAxlQD3jUMx5Qc11SMOV879%2FZEJVecb%2BgN54qS21Lom%2FUOSl8vU&utm_medium=referral&utm_content=579cc5fae4b02d63610e93cf&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(38)
+} {
+    "_id": ObjectId("579e051f0cf249bbcaa2783e"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "579ad225e4b02d63610e0ebd",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/states-in-usa/virginia?utm_medium=referral&utm_content=579ad225e4b02d63610e0ebd&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(105)
+} {
+    "_id": ObjectId("579df65b0cf249bbcaa2783c"),
+    "brandid": "53e1e90de4b0ee84908299a2",
+    "nid": "5798575fe4b02d63610d3e45",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/sai-le-mu-mei-shi-zhi-lu?utm_medium=referral&utm_content=5798575fe4b02d63610d3e45&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(6)
+} {
+    "_id": ObjectId("579de3230cf249bbcaa27837"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579b2438e4b02d63610e2186",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/restaurant-bars-lounges/?utm_medium=referral&utm_content=579b2438e4b02d63610e2186&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(3)
+} {
+    "_id": ObjectId("579de1430cf249bbcaa27835"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "579b1afee4b02d63610e1d90",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.timeout.com/london/things-to-do/london-events-this-summer?utm_medium=referral&utm_content=579b1afee4b02d63610e1d90&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(7)
+} {
+    "_id": ObjectId("579dcdcf0cf249bbcaa27832"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "577dc66be4b0553b142cf8a7",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/miami?utm_medium=referral&utm_content=577dc66be4b0553b142cf8a7&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(29)
+} {
+    "_id": ObjectId("579dc6c70cf249bbcaa27830"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "579b07d7e4b02d63610e195e",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/edits/wedding/?utm_medium=referral&utm_content=579b07d7e4b02d63610e195e&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(10)
+} {
+    "_id": ObjectId("579d95cb0cf249bbcaa2782b"),
+    "brandid": "577e502be4b0553b142d21bc",
+    "nid": "579b2b42e4b02d63610e234e",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://theneighbourhood.uk.com/en?utm_medium=referral&utm_content=579b2b42e4b02d63610e234e&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(4)
+} {
+    "_id": ObjectId("579d85db0cf249bbcaa27829"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578f218de4b003e5538f360d",
+    "linkid": 1,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bluenile.com/cn/?utm_medium=referral&utm_content=578f218de4b003e5538f360d&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(47)
+} {
+    "_id": ObjectId("579d85db0cf249bbcaa27828"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578f218de4b003e5538f360d",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://weibo.com/p/1001603965941535872875?from=page_100606_profile&wvr=6&mod=wenzhangmod&utm_medium=referral&utm_content=578f218de4b003e5538f360d&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(76)
+} {
+    "_id": ObjectId("579ccbe10cf249bbcaa2781e"),
+    "brandid": "56fcef1ce4b0c06ee273e62b",
+    "nid": "579cbde2e4b02d63610e9124",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://tv.cctv.com/live/cctv5plus/?utm_medium=referral&utm_content=579cbde2e4b02d63610e9124&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(6)
+} {
+    "_id": ObjectId("579cbb1f0cf249bbcaa2781a"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "5798307fe4b003e55391dbfe",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/Lake-Tahoe?utm_medium=referral&utm_content=5798307fe4b003e55391dbfe&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(137)
+} {
+    "_id": ObjectId("579cb8500cf249bbcaa27818"),
+    "brandid": "552512f7e4b05e0076a6cf93",
+    "nid": "57962370e4b003e5539136ad",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "https://scontent.cdninstagram.com/t50.2886-16/13831216_257614704622931_230514423_s.mp4[good]",
+    "count": NumberLong(2)
+} {
+    "_id": ObjectId("579ca5a70cf249bbcaa27816"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ac831e4b02d63610e0c70",
+    "linkid": 0,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://www.uefa.com/save-of-the-season/videoid=2386940.html?utm_medium=referral&utm_content=579ac831e4b02d63610e0c70&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": 0
+} {
+    "_id": ObjectId("579ca5750cf249bbcaa27815"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ac831e4b02d63610e0c70",
+    "linkid": 0,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://www.uefa.com/save-of-the-season/videoid=2386940.html?utm_medium=referral&utm_content=579ac831e4b02d63610e0c70&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": 0
+} {
+    "_id": ObjectId("579ca5420cf249bbcaa27813"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ac831e4b02d63610e0c70",
+    "linkid": 0,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://www.uefa.com/save-of-the-season/videoid=2386940.html?utm_medium=referral&utm_content=579ac831e4b02d63610e0c70&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": 0
+} {
+    "_id": ObjectId("579ca50e0cf249bbcaa27812"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ac831e4b02d63610e0c70",
+    "linkid": 0,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://www.uefa.com/save-of-the-season/videoid=2386940.html?utm_medium=referral&utm_content=579ac831e4b02d63610e0c70&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": 0
+} {
+    "_id": ObjectId("579ca4db0cf249bbcaa27811"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ac831e4b02d63610e0c70",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.uefa.com/save-of-the-season/videoid=2386940.html?utm_medium=referral&utm_content=579ac831e4b02d63610e0c70&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(102)
+} {
+    "_id": ObjectId("579ca4db0cf249bbcaa27810"),
+    "brandid": "53c39392e4b050a9a9c15619",
+    "nid": "579ac831e4b02d63610e0c70",
+    "linkid": 0,
+    "region": 0,
+    "network": "tweibo",
+    "url": "http://www.uefa.com/save-of-the-season/videoid=2386940.html?utm_medium=referral&utm_content=579ac831e4b02d63610e0c70&utm_campaign=kawo&utm_source=t.qq.com",
+    "count": 0
+} {
+    "_id": ObjectId("579c9dd30cf249bbcaa2780c"),
+    "brandid": "56601a12e4b03d61a4cb517c",
+    "nid": "579b18e8e4b02d63610e1d19",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://purestudentliving.com/our-properties/hammersmith?utm_medium=referral&utm_content=579b18e8e4b02d63610e1d19&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(8)
+} {
+    "_id": ObjectId("579c7c4f0cf249bbcaa27806"),
+    "brandid": "53e1cacce4b0ee84908296d9",
+    "nid": "5757e398e4b0151215855d0d",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.gousa.cn/activity/jin-men-da-qiao?utm_medium=referral&utm_content=5757e398e4b0151215855d0d&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(127)
+} {
+    "_id": ObjectId("579c552b0cf249bbcaa27801"),
+    "brandid": "5739a42ee4b0fea91cd01eb2",
+    "nid": "579b2213e4b02d63610e20cf",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.hippodromecasino.com/events/the-soho-burlesque-club-25/?utm_medium=referral&utm_content=579b2213e4b02d63610e20cf&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(4)
+} {
+    "_id": ObjectId("579c4a9f0cf249bbcaa277ff"),
+    "brandid": "53c5f408e4b0424a025e65c8",
+    "nid": "579af952e4b02d63610e16f4",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://live.pptv.com/list/sports_program/index.html?utm_medium=referral&utm_content=579af952e4b02d63610e16f4&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(551)
+} {
+    "_id": ObjectId("579c426c0cf249bbcaa277fc"),
+    "brandid": "577e502be4b0553b142d21bc",
+    "nid": "579a32fae4b02d63610dd6f3",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://theneighbourhood.uk.com/en/blog/cardiff/tips-for-living-with-others?utm_medium=referral&utm_content=579a32fae4b02d63610dd6f3&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(1)
+} {
+    "_id": ObjectId("579c3f9b0cf249bbcaa277fa"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57921706e4b003e553901d89",
+    "linkid": 1,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/stores-landing?utm_medium=referral&utm_content=57921706e4b003e553901d89&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(15)
+} {
+    "_id": ObjectId("579c3f9b0cf249bbcaa277f9"),
+    "brandid": "5660077de4b03d61a4cb4df2",
+    "nid": "57921706e4b003e553901d89",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.anyahindmarch.com/en-GB/stores-landing?city=london&utm_medium=referral&utm_content=57921706e4b003e553901d89&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(6)
+} {
+    "_id": ObjectId("579c3aec0cf249bbcaa277f6"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578f19e4e4b003e5538f34ff",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bluenile.com/cn/?utm_medium=referral&utm_content=578f19e4e4b003e5538f34ff&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(55)
+} {
+    "_id": ObjectId("579c3a370cf249bbcaa277f5"),
+    "brandid": "56de3701e4b04525fc41582c",
+    "nid": "578f19e4e4b003e5538f34ff",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.bluenile.com/cn/?utm_medium=referral&utm_content=578f19e4e4b003e5538f34ff&utm_campaign=kawo&utm_source=weibo.com",
+    "count": 0
+} {
+    "_id": ObjectId("579c363b0cf249bbcaa277f3"),
+    "brandid": "56b1fa23e4b02a94be40aa01",
+    "nid": "579a66fee4b02d63610dea7a",
+    "linkid": 0,
+    "region": 0,
+    "network": "sweibo",
+    "url": "http://www.manchestereveningnews.co.uk/whats-on/food-drink-news/simones-healthy-cake-bar-manchester-11678058?C&utm_medium=referral&utm_content=579a66fee4b02d63610dea7a&utm_campaign=kawo&utm_source=weibo.com",
+    "count": NumberLong(32)
+}];
