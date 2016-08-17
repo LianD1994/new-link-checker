@@ -1,8 +1,8 @@
 var phantom = require('phantom');
 var async = require('async');
 var fs = require('fs');
-var LinkResult = require('./models/')
 
+var outObj;
 var resultsObj;
 var sitepage = null;
 var phInstance = null;
@@ -20,6 +20,7 @@ var jsonObj = {
     "size" : null,
     "error" : [],
     "blocked" : false
+    // "totalDuration" : null
 };   
 
 function runPhantom(candidate, callback){    
@@ -29,9 +30,11 @@ function runPhantom(candidate, callback){
     phantom.create()
 
     .then(instance => {
-        phInstance = instance;
-        resultsObj = phInstance.createOutObject();
-        resultsObj.results;
+      phInstance = instance;
+      outObj = phInstance.createOutObject();
+      resultsObj = phInstance.createOutObject();
+      resultsObj.results;
+      outObj.urls = [];
 
         // reset jsonObj
         jsonObj.url = null
@@ -42,10 +45,10 @@ function runPhantom(candidate, callback){
         jsonObj.slowest = null
         jsonObj.slowest_duration = null
         jsonObj.largest = null
-        jsonObj.largest_size = null
         jsonObj.size = null
         jsonObj.error = [];
         jsonObj.blocked = false;
+        // jsonObj.totalDuration = null
 
         return instance.createPage();
     })
@@ -56,8 +59,6 @@ function runPhantom(candidate, callback){
       
 
         // On load started
-        // Get the start time
-        // Prints out message "load started"
         page.on('onLoadStarted', function(){
         
             if(!start){
@@ -69,10 +70,11 @@ function runPhantom(candidate, callback){
 
 
         // On resource requested
-        // Creates a resouces[], array contains information for each resource
-        page.on('onResourceRequested', function(requestData, networkRequest) {
+        page.on('onResourceRequested', function(requestData, networkRequest, out) {
             
             var now = new Date().getTime();
+
+            out.urls.push(requestData.url);
 
             resources[requestData.id] = {
                 id: requestData.id,
@@ -92,14 +94,10 @@ function runPhantom(candidate, callback){
                 start = now;
             }
 
-        });
+        }, outObj);
 
 
         // On resource received
-        // Get the resource from resources array using response.id
-        // Update the status code for resources
-        // Calculate the duration for loading a resource 
-        // Update the size for resources using response.bodysize
         page.on('onResourceReceived', function(response){
 
             var now = new Date().getTime(),
@@ -130,11 +128,6 @@ function runPhantom(candidate, callback){
 
 
         // On resource error
-        // Get resouce by using resourceError.id
-        // update the error for a resource
-        // Update the status code for a resource
-        // If the error resource is the first resource, the website is blocked.
-        // Set the blocked attribute in jsonObj to true
         page.on('onResourceError', function(resourceError){
 
             var resource = resources[resourceError.id];
@@ -157,9 +150,6 @@ function runPhantom(candidate, callback){
 
 
         // On Resource timeout
-        // Get resource by request.id
-        // Update the status code for resource
-        // If the first resouce timedout then the url is blocked, update the blocked attribute
         page.on('onResourceTimeout', function(request){
 
             var resource = resources[request.id];
@@ -175,23 +165,15 @@ function runPhantom(candidate, callback){
 
 
         // On load finished
-        // prints out the message "load finished"
-        // Take a screenshot of the webpage
-        // Calculate the size, and duration for resources
-        // Set the return jsonObj to the correct value
-        // Export the result jsonObj from Phantom to Node
         page.on('onLoadFinished', function(status, out){
 
             console.log('---load finished---');
 
-            // todo: name each screenshot differently
 
-
-            /*var screenshot = candidate + '.png';
+            var screenshot = candidate + '.png';
             console.log(screenshot);
-
             page.render('./screenshot/abc.png');
-            ssCount++;*/
+            ssCount++;
 
             var finish =  new Date().getTime(),
                 slowest, fastest, totalDuration = 0,
@@ -238,6 +220,29 @@ function runPhantom(candidate, callback){
                 jsonObj.largest = largest.url
             }
             jsonObj.size = totalSize; 
+            // jsonObj.totalDuration = totalDuration + 'ms';
+
+
+            /*
+            console.log('');
+            console.log('              url: ' + candidate)
+            console.log('');
+            console.log('Elapsed load time: ' + pad(elapsed, 6) + 'ms');
+            console.log('   # of resources: ' + pad(resources.length-1, 8));
+            console.log('');
+            console.log(' Fastest resource: ' + pad(fastest.duration, 6) + 'ms; ' + truncate(fastest.url));
+            console.log(' Slowest resource: ' + pad(slowest.duration, 6) + 'ms; ' + truncate(slowest.url));
+            console.log('  Total resources: ' + pad(totalDuration, 6) + 'ms');
+            console.log('');
+            if(smallest != null){
+                console.log('Smallest resource: ' + pad(smallest.size, 7) + 'b; ' + truncate(smallest.url));
+            }
+            if(largest != null){
+                console.log(' Largest resource: ' + pad(largest.size, 7) + 'b; ' + truncate(largest.url));
+            }
+            console.log('  Total resources: ' + pad(totalSize, 7) + 'b' + (missingSize ? '; (at least)' : ''));
+            */
+
    
             resources.forEach(function (resource) {
                if(resource.error !== ''){ 
@@ -259,7 +264,7 @@ function runPhantom(candidate, callback){
         // End of load finished
         
 
-        // ============================================================
+
         sitepage = page;
 
         // set resource timeout to 8 seconds
@@ -302,26 +307,43 @@ function runPhantom(candidate, callback){
 }
 
 
+
+
+// ===============================================
+/*var content = fs.readFileSync('./url.js', 'utf8');
+
+var lines = content.split('\n');
+
+lines = lines.slice(0, 100);
+
+var urls = lines.filter(function(line) {
+    return (line.indexOf("url") > -1);
+});
+
+var cleanUrls = urls.map(function(url) {
+    return url.substring(12, url.length-2);
+})*/
+
+/*cleanUrls = [
+
+    "http://baidu.com",
+    "http://google.com",
+    // "http://twitter.com",
+    // "http://youtube.com",
+    // "http://kawo.com"
+]*/
+
+
 exports.linkChecker = function(url, cb){
 
-    // Reset the resultArr
     var resultsArr = [];
-
-    // todo
-    if( ! checkUrl(url) ){
-        return cb(true);
-    }
 
     console.log('checking ' + url.length + ' urls');
 
-    // run the function for each url
-    // runs only a single async operation at a time.
-    async.eachSeries(url/*array of urls*/, function(url, next)/*function to run for each url*/ {
+    async.eachSeries(url, function(url, next) {
 
-        // create a new phantom instance
         runPhantom(url, function(urls){
 
-            // get the original variable instead of the reference one
             var copyResult = Object.assign(resultsObj.results, {});
 
             var saveResult = {
@@ -337,6 +359,7 @@ exports.linkChecker = function(url, cb){
                 largest_size : copyResult.largest_size,
                 error : copyResult.error,
                 blocked : copyResult.blocked,
+                // totalDuration : copyResult.totalDuration,
             };
 
             resultsArr.push(saveResult);
@@ -347,8 +370,13 @@ exports.linkChecker = function(url, cb){
 
         console.log('-----------resultsArr-------------');
         console.log(JSON.stringify(resultsArr, null, 2));
+
         console.log('')
+
+        // console.log('outObj.results = ' + JSON.stringify(outObj.results));
+
         console.log('---finshed checking---')
+
         console.log('');
 
         return cb(null, resultsArr);
@@ -356,24 +384,6 @@ exports.linkChecker = function(url, cb){
 }
 
 
-
-
-// todo : Check the validity of the input
-// ==================================
- var checkUrl = function(url){
-
-    if(!url){
-        return false;
-    }
-
-    return true;
-    // check the format of the input
- }   
-
-
-
-
-// Functions for formating console logs
 // ==================================================
 var truncate = function (str, length) {
         length = length || 80;
@@ -398,3 +408,11 @@ var truncate = function (str, length) {
         }
         return str;
     };
+
+
+//TODO 
+ var CheckUrl = function(url){
+
+    // check the format of the url 
+ }   
+

@@ -8,6 +8,7 @@ var bodyParser = require('body-parser');
 app.use(bodyParser.json());
 
 
+
 /*
 request format:
 
@@ -19,7 +20,20 @@ request format:
 }
 */
 
-app.post('/', function (req, res) {
+app.get('/links/:linkId', function(req, res) {
+
+	var linkId = req.params.linkId
+
+	LinkResult.find({_id: linkId}.function(err, results) {
+
+		res.status(200).json
+	})
+
+})
+
+
+
+app.post('/links', function (req, res) {
 
 	var url = req.body.url;
 
@@ -31,6 +45,17 @@ app.post('/', function (req, res) {
 			})
    		 }
 
+   		 for(i=0;i<result.result.length;i++){
+
+   		 	LinkResult.save({result.result[i]}, function(err, results) {
+
+	   		 	if(err){
+	   		 		
+	   		 		return res.status(400);
+   		 		}
+   		 	})
+   		 }
+   		
     	res.status(200).json({
 			result
     	})
